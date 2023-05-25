@@ -30,7 +30,6 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 files
 README.md - description about the project repo
-man_1_simple_shell - is the man page for the shell we are going to write.
 AUTHORS - file at the root of your repository, listing all individuals having contributed content to the repository.
 main.h - is the header file which contains the standared header file and prototype of o function used in the program.
 main.c - initialize the program with infinite loop by call the prompt function
