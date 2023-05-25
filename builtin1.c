@@ -37,9 +37,9 @@ int unset_alias(info_t *info, char *str)
 }
 
 /**
- * unset_alias - sets the alias to the string
+ * set_alias - sets the alias to the string
  * @info: parameter structure
- * @str:  string alias
+ * @str: string alias
  *
  * Return: Always 0 on success, 1 on error
  */
